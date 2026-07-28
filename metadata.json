@@ -1,0 +1,6 @@
+{
+  "name": "Material Lab",
+  "description": "A real-time 3D material design studio for customizing, lighting, and previewing materials in the browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
